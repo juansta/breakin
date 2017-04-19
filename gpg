@@ -1,0 +1,2 @@
+:!gpg -ca
+:!gpg -qd
