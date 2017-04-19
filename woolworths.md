@@ -16,3 +16,5 @@ All details of items that have been stolen are to be sent to
 * claims@hollard.com.au
 
 Details should include age and price of items.
+
+She is going to arrange the garage door to be fixed, and was going to have someone come out to look at it today.
