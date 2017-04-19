@@ -6,7 +6,12 @@ Called Woolworths Insurance. Was told by Kathryn that it was best to call back w
 Called Woolworths Insurance. On hold for a while due to recent storms.
 
 Eventually the call was taken by, Amber. A claim was raised and given the following number
-* 823246
+-----BEGIN PGP MESSAGE-----
+
+jA0EBwMCBaxcJJWR5iTk0j4BIrfuIilREt5Z5ee3HTL6wpDPwXeDuZkumSRfg3rt
+3d0/LfGGdf2n6yb1TOOVm58YViVHAbjt0oYNGtrzlw==
+=9j3R
+-----END PGP MESSAGE-----
 
 ## Phone Record
 Amber told me that she would escalate the payout limit on the road bike, and that I was required to show evidence of the actual bike cost.
@@ -40,8 +45,14 @@ She also let me know the following links between all the different companies;
 Phone conversation ended at 16:25.
 
 ### Claims Central
-Their direct phone number is 1300 743 673 and our claim number with them is 86539
+-----BEGIN PGP MESSAGE-----
 
+jA0EBwMC3BSmX+83qxHk0oABbrZW+NWaTaMb1EehSj9A4D54AWHfmyIg8gUjEn2i
+ofsRPJcN8t/UwuXbhfsM58hUMBvqqm6BgWufhsB6NBQyEU4V7yp4U9taKLTI9aaL
+vvNgwngxUwkwtW33yUcr7lwqbNXEqtKjcgpXYpeEQWSsOqIl93hCB+brqNdVVbvs
+fA==
+=qVty
+-----END PGP MESSAGE-----
 # 19 April 2017 at 16:40
 Called Woolworths Insurance. On hold for a while due to recent storms.
 
