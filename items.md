@@ -18,6 +18,7 @@ Awaiting result of police forensic investigation before I go through left of ite
   * Shoes - 
   * Helmet - limar 
   * Glasses - 
+  * Front Head Lamp - Xeccon F12
 
 * Various Power Tools
 
