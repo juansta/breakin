@@ -16,7 +16,7 @@ jA0EBwMCBaxcJJWR5iTk0j4BIrfuIilREt5Z5ee3HTL6wpDPwXeDuZkumSRfg3rt
 ## Phone Record
 Amber told me that she would escalate the payout limit on the road bike, and that I was required to show evidence of the actual bike cost.
 
-All details of items that have been stolen are to be sent to 
+All details of items that have been stolen are to be sent to
 * claims@hollard.com.au
 
 Details should include age and price of items.
@@ -59,10 +59,10 @@ Called Woolworths Insurance. On hold for a while due to recent storms.
 Called to determine why our claim was not handled properly.
 
 ## Phone Record
-Spoke to Dom, he let me know that Amber had probably set incorrect expectations in that no-one would be able to contact me on the same day to arrange for the garage door to be fixed. He said that they were flat out with other claims due to cyclones and other weather events, which really doesnt not concern us. This is the only explanation he could provide as to why there was no details forwarded to **Claims Central**. 
+Spoke to Dom, he let me know that Amber had probably set incorrect expectations in that no-one would be able to contact me on the same day to arrange for the garage door to be fixed. He said that they were flat out with other claims due to cyclones and other weather events, which really doesnt not concern us. This is the only explanation he could provide as to why there was no details forwarded to **Claims Central**.
 
 # 20th April 07:40
-Called Claims Central (Claims 360) on 1300 743 673 to find out the exact application I have to download as I cant seem to find **Live Logic**. 
+Called Claims Central (Claims 360) on 1300 743 673 to find out the exact application I have to download as I cant seem to find **Live Logic**.
 
 ## Phone Record
 Found out the office doesnt open until 8am. Will have to ring back then.
@@ -76,7 +76,8 @@ Tried to open live stream to assessor. Unable to carry it out due to poor intern
 # 20th April 10:00
 Stopped all background processes running on phone and managed to create a decent quality stream for Nicholas (assessor).
 
-# Phone Record
+## Phone Record
 This was carried out, I showed him all the required areas, from what he could see, the door was too damaged (due to buckling on the lower sections of the track) and requires a replacement. I also showed him images of outside the house for when their team arrives to replace the door. I stepped out the width of the door and estimated it to be just under 6m.
 
-About 5minutes after talking to Nicholas, Alisha rang to confirm a new appointment for an assessor to come out. During the phone conversation she received an email from Nicholas stating no assessor visit was required as he was happy with the stream we carried out.
+About 5 minutes after talking to Nicholas, Alisha rang to confirm a new appointment for an assessor to come out. During the phone conversation she received an email from Nicholas stating no assessor visit was required as he was happy with the stream we carried out.
+
