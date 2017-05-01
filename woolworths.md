@@ -81,3 +81,32 @@ This was carried out, I showed him all the required areas, from what he could se
 
 About 5 minutes after talking to Nicholas, Alisha rang to confirm a new appointment for an assessor to come out. During the phone conversation she received an email from Nicholas stating no assessor visit was required as he was happy with the stream we carried out.
 
+# 1st May 15:15
+Rang woolworths insurance back to see how the claim was progressing. They have had my contents claim list for over a week (sent to them on 22 Apr) and Claims Central had already let me know (on 20 Apr) that they had approved my claim.
+
+## Phone Record
+Spoke to Moheed (spelling?). We went through the entire list and invoices together. I was surprised to learn that I was required to go through everything with him over the phone as I had sent woolworths the list of items over a week ago. I dont think anyone looked at anything until this phone call.
+
+In either case, there were discrepencies which he was not going to accept, these included;
+* 1 cent on Aldi purchased lights
+* $4 on delivery fees with CyclingDeal
+* $10 on Bunnings tote box
+
+He was also unable to find the Cell bikes Shimano pedals, eventhough the item number is clearly listed in the **Notes** column they provide within their template. He was also not understanding the fact that some items are now more expensive due to;
+1. Items not being on special
+2. Items requiring shipping fees
+3. Items no longer being available
+
+He also requires proof that I owned some of the gifted items, including;
+* Cycling Glasses
+* Makita Drill
+
+Im now required to find photos of me wearing the glasses and using the drill! More time I am required to sink to this.
+
+He did apologise for the lack of progression on my claim. He also let me know that there was a limit imposed on the total sum insured depending on the item types (especially bikes and tools-of-trade), and that there was an avenue for complaints that I could follow to escalate this further. Infact, he asked me to check out other insurance companies to see if they do they same!
+
+Phone call lasted 60min.
+
+## Claim Central
+Shortly after my phone call to woolworths insurance, I received an SMS from Claims Central stating that my claim had been approved.
+
