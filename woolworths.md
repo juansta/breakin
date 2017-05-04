@@ -16,7 +16,7 @@ jA0EBwMCBaxcJJWR5iTk0j4BIrfuIilREt5Z5ee3HTL6wpDPwXeDuZkumSRfg3rt
 ## Phone Record
 Amber told me that she would escalate the payout limit on the road bike, and that I was required to show evidence of the actual bike cost.
 
-All details of items that have been stolen are to be sent to 
+All details of items that have been stolen are to be sent to
 * claims@hollard.com.au
 
 Details should include age and price of items.
@@ -59,10 +59,10 @@ Called Woolworths Insurance. On hold for a while due to recent storms.
 Called to determine why our claim was not handled properly.
 
 ## Phone Record
-Spoke to Dom, he let me know that Amber had probably set incorrect expectations in that no-one would be able to contact me on the same day to arrange for the garage door to be fixed. He said that they were flat out with other claims due to cyclones and other weather events, which really doesnt not concern us. This is the only explanation he could provide as to why there was no details forwarded to **Claims Central**. 
+Spoke to Dom, he let me know that Amber had probably set incorrect expectations in that no-one would be able to contact me on the same day to arrange for the garage door to be fixed. He said that they were flat out with other claims due to cyclones and other weather events, which really doesnt not concern us. This is the only explanation he could provide as to why there was no details forwarded to **Claims Central**.
 
 # 20th April 07:40
-Called Claims Central (Claims 360) on 1300 743 673 to find out the exact application I have to download as I cant seem to find **Live Logic**. 
+Called Claims Central (Claims 360) on 1300 743 673 to find out the exact application I have to download as I cant seem to find **Live Logic**.
 
 ## Phone Record
 Found out the office doesnt open until 8am. Will have to ring back then.
@@ -79,7 +79,36 @@ Stopped all background processes running on phone and managed to create a decent
 ## Phone Record
 This was carried out, I showed him all the required areas, from what he could see, the door was too damaged (due to buckling on the lower sections of the track) and requires a replacement. I also showed him images of outside the house for when their team arrives to replace the door. I stepped out the width of the door and estimated it to be just under 6m.
 
-About 5minutes after talking to Nicholas, Alisha rang to confirm a new appointment for an assessor to come out. During the phone conversation she received an email from Nicholas stating no assessor visit was required as he was happy with the stream we carried out.
+About 5 minutes after talking to Nicholas, Alisha rang to confirm a new appointment for an assessor to come out. During the phone conversation she received an email from Nicholas stating no assessor visit was required as he was happy with the stream we carried out.
+
+# 1st May 15:15
+Rang woolworths insurance back to see how the claim was progressing. They have had my contents claim list for over a week (sent to them on 22 Apr) and Claims Central had already let me know (on 20 Apr) that they had approved my claim.
+
+## Phone Record
+Spoke to Moheed (spelling?). We went through the entire list and invoices together. I was surprised to learn that I was required to go through everything with him over the phone as I had sent woolworths the list of items over a week ago. I dont think anyone looked at anything until this phone call.
+
+In either case, there were discrepencies which he was not going to accept, these included;
+* 1 cent on Aldi purchased lights
+* $4 on delivery fees with CyclingDeal
+* $10 on Bunnings tote box
+
+He was also unable to find the Cell bikes Shimano pedals, eventhough the item number is clearly listed in the **Notes** column they provide within their template. He was also not understanding the fact that some items are now more expensive due to;
+1. Items not being on special
+2. Items requiring shipping fees
+3. Items no longer being available
+
+He also requires proof that I owned some of the gifted items, including;
+* Cycling Glasses
+* Makita Drill
+
+Im now required to find photos of me wearing the glasses and using the drill! More time I am required to sink to this.
+
+He did apologise for the lack of progression on my claim. He also let me know that there was a limit imposed on the total sum insured depending on the item types (especially bikes and tools-of-trade), and that there was an avenue for complaints that I could follow to escalate this further. Infact, he asked me to check out other insurance companies to see if they do they same!
+
+Phone call lasted 60min.
+
+## Claim Central
+Shortly after my phone call to woolworths insurance, I received an SMS from Claims Central stating that my claim had been approved.
 
 # 3rd May
 Received a missed call from a private number. No idea if this was related to any insurance claim or not. I am hoping that they would also send me an email, or an SMS to let me know it was them who rang. 
