@@ -76,7 +76,16 @@ Tried to open live stream to assessor. Unable to carry it out due to poor intern
 # 20th April 10:00
 Stopped all background processes running on phone and managed to create a decent quality stream for Nicholas (assessor).
 
-# Phone Record
+## Phone Record
 This was carried out, I showed him all the required areas, from what he could see, the door was too damaged (due to buckling on the lower sections of the track) and requires a replacement. I also showed him images of outside the house for when their team arrives to replace the door. I stepped out the width of the door and estimated it to be just under 6m.
 
 About 5minutes after talking to Nicholas, Alisha rang to confirm a new appointment for an assessor to come out. During the phone conversation she received an email from Nicholas stating no assessor visit was required as he was happy with the stream we carried out.
+
+# 3rd May
+Received a missed call from a private number. No idea if this was related to any insurance claim or not. I am hoping that they would also send me an email, or an SMS to let me know it was them who rang. 
+
+## Phone Record
+Missed call at 9:44am.
+
+## Follow Up
+Still have not received confirmation of anyone trying to ring. Perhaps the phone call was not insurance related.
