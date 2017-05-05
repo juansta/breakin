@@ -111,10 +111,18 @@ Phone call lasted 60min.
 Shortly after my phone call to woolworths insurance, I received an SMS from Claims Central stating that my claim had been approved.
 
 # 3rd May
-Received a missed call from a private number. No idea if this was related to any insurance claim or not. I am hoping that they would also send me an email, or an SMS to let me know it was them who rang. 
+Received a missed call from a private number. No idea if this was related to any insurance claim or not. I am hoping that they would also send me an email, or an SMS to let me know it was them who rang.
 
 ## Phone Record
 Missed call at 9:44am.
 
 ## Follow Up
 Still have not received confirmation of anyone trying to ring. Perhaps the phone call was not insurance related.
+
+# 5th May
+Received a missed call from a private number (11:17) so I rang woolworths insurance. After a 20min hold time I Was put through to Shana (spelling?).
+
+## Phone Record
+Shana let me know that they had received my email on the 2nd May but that nothing had actually been looked at. She said she was going to look at it today and give me a call back in a few hours.
+
+I also asked her about the garage door, and when that would be fixed. She advised me that I would need to deal with the ‘building company’. They apparently tried to ring me, and had sent out a scope of works in the mail. She has updated them to let them know they can email the documents instead.
