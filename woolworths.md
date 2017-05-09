@@ -138,3 +138,9 @@ I again explained to her how the **Certificate Of Insurance** issued to me only 
 She did offer to payback a partial settlement amount, which would not include the bike. I told her this was not acceptable (and pointless) and that I would rather receive the entire claim as a single settlement.
 
 I also explained to her that I had not received any scope of works from their building contractors. She was going to chase that up for me. Her notes indicated that she had already sent them an email detailing my email address. I guess I will receive the scope of works via snail mail before any email comes through.
+
+## Scope Of Works Email
+Received email from Claims Central in regards to the scope of works.
+
+The email requires us to sign off on the Scope Of Works and to provide an excess payment of $1,000. Im not sure why we are required to pay Claims Central as our insurance policy is with Woolworths.
+
