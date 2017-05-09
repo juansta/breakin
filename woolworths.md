@@ -126,3 +126,15 @@ Received a missed call from a private number (11:17) so I rang woolworths insura
 Shana let me know that they had received my email on the 2nd May but that nothing had actually been looked at. She said she was going to look at it today and give me a call back in a few hours.
 
 I also asked her about the garage door, and when that would be fixed. She advised me that I would need to deal with the ‘building company’. They apparently tried to ring me, and had sent out a scope of works in the mail. She has updated them to let them know they can email the documents instead.
+
+# 9th May
+Finally received a call back from Woolworths Insurance (11:57). It was Shana returning the phone call from Friday.
+
+## Phone Record
+Shana let me know that they have agreed to the updated pricing I have sent them, **excepting** for the amount claimed on the bicycle. I told her I was not happy about this and that I wanted to escalate the complaint.
+
+I again explained to her how the **Certificate Of Insurance** issued to me only mentions limits within the **Optional Covers** section, the total sum insured does not make any mention of limits at all. So why are they imposing limits now? She explained that she did not write the **Certificate Of Insurance**, I dont know why that is relevant as I was on the phone to **Woolworths Insurance**, who prepared the **Certificate Of Insurance** for me.
+
+She did offer to payback a partial settlement amount, which would not include the bike. I told her this was not acceptable (and pointless) and that I would rather receive the entire claim as a single settlement.
+
+I also explained to her that I had not received any scope of works from their building contractors. She was going to chase that up for me. Her notes indicated that she had already sent them an email detailing my email address. I guess I will receive the scope of works via snail mail before any email comes through.
