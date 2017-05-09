@@ -144,3 +144,7 @@ Received email from Claims Central in regards to the scope of works.
 
 The email requires us to sign off on the Scope Of Works and to provide an excess payment of $1,000. Im not sure why we are required to pay Claims Central as our insurance policy is with Woolworths.
 
+## Second Woolworths Phone call
+I tried to get hold of Woolworths Insurance (17:30) to ask them why we are required to pay an external third party an excess. Their office hours are 8am to 5pm.
+
+Surely they cant expect multiple excess payment from a single insured event!
