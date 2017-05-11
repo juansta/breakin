@@ -8,9 +8,9 @@ Called Woolworths Insurance. On hold for a while due to recent storms.
 Eventually the call was taken by, Amber. A claim was raised and given the following number
 -----BEGIN PGP MESSAGE-----
 
-jA0EBwMCBaxcJJWR5iTk0j4BIrfuIilREt5Z5ee3HTL6wpDPwXeDuZkumSRfg3rt
-3d0/LfGGdf2n6yb1TOOVm58YViVHAbjt0oYNGtrzlw==
-=9j3R
+jA0EBwMCuFLqeE5t+x/k0j4BPXzTS1Mhw00PjicEqmGsNydyXUx4kVlEv0OkRWg0
+f3v+hYPu6mvNMVGQ4I9Kv+Yw0U9nvFXKWbhZ+ZFgXA==
+=IUWx
 -----END PGP MESSAGE-----
 
 ## Phone Record
@@ -47,12 +47,12 @@ Phone conversation ended at 16:25.
 ### Claims Central
 -----BEGIN PGP MESSAGE-----
 
-jA0EBwMC3BSmX+83qxHk0oABbrZW+NWaTaMb1EehSj9A4D54AWHfmyIg8gUjEn2i
-ofsRPJcN8t/UwuXbhfsM58hUMBvqqm6BgWufhsB6NBQyEU4V7yp4U9taKLTI9aaL
-vvNgwngxUwkwtW33yUcr7lwqbNXEqtKjcgpXYpeEQWSsOqIl93hCB+brqNdVVbvs
-fA==
-=qVty
+jA0EBwMC1NGokRV3Ut3k0n8Bwu3RIUVJ1kyarDmCAPFDq7b044Yt36lYon/+yu5u
+9fbgiJjz/R/sBmIeE60/o2glJtdjRkBT3w01A/qNlnnrHh0OgiXiKG//UKp5S1WQ
+k1Ea3cEuRXRMg9UPxrda3s9yqCkzc/yWINTDfxhzTfwAe1TBTL/en3bYrf8/3uE3
+=D5xq
 -----END PGP MESSAGE-----
+
 # 19 April 2017 at 16:40
 Called Woolworths Insurance. On hold for a while due to recent storms.
 
