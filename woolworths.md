@@ -148,3 +148,14 @@ The email requires us to sign off on the Scope Of Works and to provide an excess
 I tried to get hold of Woolworths Insurance (17:30) to ask them why we are required to pay an external third party an excess. Their office hours are 8am to 5pm.
 
 Surely they cant expect multiple excess payment from a single insured event!
+
+# 11th May
+Rang Woolworths Insurance (09:25) to ask about ClaimCentral's request for excess payment.
+
+## Phone Record
+On hold for a while due to recent weather events. 
+
+Spoke to Curtis and he confirmed that there is only one excess required for the home and contents claim, which is payable directly to Claim Central.
+
+## Claim Central
+Sent email with signed SOW and excess paypal receipt.
