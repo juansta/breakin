@@ -153,9 +153,19 @@ Surely they cant expect multiple excess payment from a single insured event!
 Rang Woolworths Insurance (09:25) to ask about ClaimCentral's request for excess payment.
 
 ## Phone Record
-On hold for a while due to recent weather events. 
+On hold for a while due to recent weather events.
 
 Spoke to Curtis and he confirmed that there is only one excess required for the home and contents claim, which is payable directly to Claim Central.
 
 ## Claim Central
 Sent email with signed SOW and excess paypal receipt.
+
+# 12th May
+Received a phone call from Woolworths Insurance (12:15) in regards to the limits applied on the bicycle.
+
+## Phone Record
+Spoke to Tamara, and she exaplined that the limits are applied based on the PDS. The total sum insured that is displayed on the **Certificate of Insurance** that they offered does not count for anytyhing essentially. This would also be the case for a complete insurable event.
+
+Unfortunately, this is not how the **Certificate of Insurance** reads. To me, the reference to the PDS imposed limits are only made when describing **Optional Covers**, to which I have none of. Perhaps it is the indentation of their paragraphs.
+
+She will be sending me an email describing all of this. She also said that she was the highest person I could talk to in regards to claims, so I am not sure how much further I can escalate this.
