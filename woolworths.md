@@ -169,3 +169,5 @@ Spoke to Tamara, and she exaplined that the limits are applied based on the PDS.
 Unfortunately, this is not how the **Certificate of Insurance** reads. To me, the reference to the PDS imposed limits are only made when describing **Optional Covers**, to which I have none of. Perhaps it is the indentation of their paragraphs.
 
 She will be sending me an email describing all of this. She also said that she was the highest person I could talk to in regards to claims, so I am not sure how much further I can escalate this.
+
+at 17:15 Berny from Claim Central contact me on my mobile. He explained that we have now progressed along in the claims process, and will be contacted within 7 working days to confirm the remaining items (colour, type, etc) with their approved builder. I also mentioned to Berny the fact that we have plans to leave our house for a holiday soon and would like this sorted before then. He made a note of this, but assured that it should not take that long.
