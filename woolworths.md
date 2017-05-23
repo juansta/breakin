@@ -181,7 +181,7 @@ We arranged for him to come out today (between 15:00 and 15:30) to have a look a
 Recevied a phone call from Claim Central at 08:46.
 
 ## Phone Record
-I spoke to Hackan (sp?) who was confirming that I had spoken to the builder in regards to the works.
+I spoke to Hackan who was confirming that I had spoken to the builder in regards to the works.
 
 I let him know that the garage door person had come out to quote and would be getting back to the with a price. I also let him know about the urgency of the job and its requirement to be completed by the 22nd June.
 
