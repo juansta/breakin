@@ -176,3 +176,19 @@ at 17:15 Berny from Claim Central contact me on my mobile. He explained that we 
 Received a phone call from the builder in regards to coming out to look at the garage door.
 
 We arranged for him to come out today (between 15:00 and 15:30) to have a look at what was required.
+
+# 23rd May
+Recevied a phone call from Claim Central at 08:46.
+
+## Phone Record
+I spoke to Hackan (sp?) who was confirming that I had spoken to the builder in regards to the works.
+
+I let him know that the garage door person had come out to quote and would be getting back to the with a price. I also let him know about the urgency of the job and its requirement to be completed by the 22nd June.
+
+## Email Communication
+I also received an email from Claim Central stating that the works had been completed. However, works have not even begun at my house.
+
+This lead me to ring Claim Central.
+
+### Phone Record
+I spoke to Bernie at 16:06. He confirmed that this email (and SMS) was a glitch in their system and that someone must have closed off the claim by accident. He also confirmed that he could see no works had been carried out, and assured me that the claim was still opened in their system. He assured me that the claim would not be *forgotten* or deleted from their system.
