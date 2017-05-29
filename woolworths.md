@@ -192,3 +192,8 @@ This lead me to ring Claim Central.
 
 ### Phone Record
 I spoke to Bernie at 16:06. He confirmed that this email (and SMS) was a glitch in their system and that someone must have closed off the claim by accident. He also confirmed that he could see no works had been carried out, and assured me that the claim was still opened in their system. He assured me that the claim would not be *forgotten* or deleted from their system.
+
+# 29th May
+Tried to ring Robert from Steel Line Doors (0402 352 676) to find out how the claim was going.
+
+Could not get through and left a message for a call back.
