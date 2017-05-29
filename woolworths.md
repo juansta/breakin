@@ -197,3 +197,6 @@ I spoke to Bernie at 16:06. He confirmed that this email (and SMS) was a glitch 
 Tried to ring Robert from Steel Line Doors (0402 352 676) to find out how the claim was going.
 
 Could not get through and left a message for a call back.
+
+## Email Communication
+After leaving the phone message, I received an email from Hakan confirming that nothing has changed and work is set to commence on the 5th of June.
