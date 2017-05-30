@@ -200,3 +200,11 @@ Could not get through and left a message for a call back.
 
 ## Email Communication
 After leaving the phone message, I received an email from Hakan confirming that nothing has changed and work is set to commence on the 5th of June.
+
+# 30th May
+Received a phone call from Woolworths insurance askign how my claim had progressed.
+
+## Phone Record
+It was a very bad line and I could not distinguish the name on the other end. The number that contact me was (02) 8867 6861. I explained to them that the claim had been escalated to hollard insurance, but he was surprised that everything had taken so long.
+
+He assured me that someone would rng me back with more information regarding my claim.
