@@ -60,7 +60,7 @@ Called Woolworths Insurance. On hold for a while due to recent storms. Called to
 
 Spoke to Dom, he let me know that Amber had probably set incorrect expectations in that no-one would be able to contact me on the same day to arrange for the garage door to be fixed. He said that they were flat out with other claims due to cyclones and other weather events, which really doesnt not concern us. This is the only explanation he could provide as to why there was no details forwarded to **Claims Central**.
 
-# 20th Paril
+# 20th April
 ## Phone Record (Claims Central)
 ### Time 07:40
 Called Claims Central (Claims 360) on 1300 743 673 to find out the exact application I have to download as I cant seem to find **Live Logic**.
