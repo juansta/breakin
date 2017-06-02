@@ -208,3 +208,20 @@ Received a phone call from Woolworths insurance askign how my claim had progress
 It was a very bad line and I could not distinguish the name on the other end. The number that contact me was (02) 8867 6861. I explained to them that the claim had been escalated to hollard insurance, but he was surprised that everything had taken so long.
 
 He assured me that someone would rng me back with more information regarding my claim.
+
+# 30th May
+## Email Communication (Steel-Line Doors)
+Received an email from **Steel-Line** doors stating that the doors are not due in Sydney until the Week commencing the 5th June. From this date, the Sydney branch will get deliveies on Wednesday or Friday.
+
+I have asked Elizabeth Bryen <ebryen@steel-line.com.au> to book an isntallation date for the following week, but have not heard anythign in response.
+
+# 2nd June
+## Phone Record (Woolworths Insurance)
+### Time 09:10
+I rang Woolworths Insurance to find out how my claim was progressing. I spoke to Martin who confirmed that the claim was now being handled by the Internal Dispute Resolution team. He spoke to the while I was on hold and they assured him they would respond by Close Of Business today.
+
+I also mentioned the issue I was having with the garage door installation date. He then spoke to Claims Central (Holly) and they assured him that the door was expected to be finliased on the 5th of June. Installation could then commence between the 12th and 16th of June.
+
+## Email Communication (Internal Dispute Resolution Committee)
+### Time 09:23
+After the phone conversation, I received an email from Judy Bray. The email stated that they had 45 days to resolve the dispute. This is in slight contradiction to Tarama's original email, which stated that "we will inform you of the outcome within 15 working days of receiving your complaint".
