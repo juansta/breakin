@@ -221,7 +221,6 @@ It was a very bad line and I could not distinguish the name on the other end. Th
 
 He assured me that someone would rng me back with more information regarding my claim.
 
-# 30th May
 ## Email Communication (Steel-Line Doors)
 Received an email from **Steel-Line** doors stating that the doors are not due in Sydney until the Week commencing the 5th June. From this date, the Sydney branch will get deliveies on Wednesday or Friday.
 
