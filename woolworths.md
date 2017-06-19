@@ -236,3 +236,7 @@ I also mentioned the issue I was having with the garage door installation date. 
 ## Email Communication (Internal Dispute Resolution Committee)
 ### Time 09:23
 After the phone conversation, I received an email from Judy Bray. The email stated that they had 45 days to resolve the dispute. This is in slight contradiction to Tarama's original email, which stated that "we will inform you of the outcome within 15 working days of receiving your complaint".
+
+# 13th June
+**Garage door installed.**
+
