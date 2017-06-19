@@ -1,5 +1,5 @@
 # 18th April
-## Phone Record (Woolworths Insurance) 
+## Phone Record (Woolworths Insurance)
 ### Time 20:43
 Called Woolworths Insurance. Was told by Kathryn that it was best to call back when the claims department was opened. This would be the following day at 8:30 am.
 
@@ -85,7 +85,7 @@ This was carried out, I showed him all the required areas, from what he could se
 ### Time 10:30
 After talking to Nicholas, Alisha rang to confirm a new appointment for an assessor to come out. During the phone conversation she received an email from Nicholas stating no assessor visit was required as he was happy with the stream we carried out.
 
-# 1st May 
+# 1st May
 ## Phone Record (Woolworths Insurance)
 ### Time 15:15
 Rang woolworths insurance back to see how the claim was progressing. They have had my contents claim list for over a week (sent to them on 22 Apr) and Claims Central had already let me know (on 20 Apr) that they had approved my claim.
@@ -117,7 +117,7 @@ Phone call lasted 60min.
 Shortly after my phone call to woolworths insurance, I received an SMS from Claims Central stating that my claim had been approved.
 
 # 3rd May
-## Phone Record 
+## Phone Record
 ### Time 09:44
 Received a missed call from a private number. No idea if this was related to any insurance claim or not. I am hoping that they would also send me an email, or an SMS to let me know it was them who rang.
 
