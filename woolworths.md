@@ -240,3 +240,9 @@ After the phone conversation, I received an email from Judy Bray. The email stat
 # 13th June
 **Garage door installed.**
 
+# 6th July
+## Phone Record (Woolworths Insurance)
+### Time 14:26
+Received a phone call from Woolworths Insurance to finalise settlement. I spoke to Lilian, who was going to email me a final settlement figure. She said that I would then be required to forward bank details to them so they can finalise the transfer.
+
+I received an email from Lilian a few minutes later. Unfortunately, the email stated an incorrect settlement amount and also mentioned an excess payment of $1000! Refer to previous phone records (11th May) but woolworths insurance have previously told me that only a single excess payment is required.
